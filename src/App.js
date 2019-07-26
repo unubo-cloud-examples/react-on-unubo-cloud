@@ -6,7 +6,10 @@ class App extends Component {
       <Fragment>
         <div className="card">
           <div className="image-outer">
-            <img src="//static.unubo.cloud/images/react.png" alt="React" />
+            <img
+              src="//assets.unubo.com/unubo-cloud-examples/images/react.png"
+              alt="React"
+            />
           </div>
 
           <div className="copy">
